@@ -1,0 +1,802 @@
+{
+    "pages": 2,
+    "records": 16,
+    "data": [
+      {
+        "_id": {
+          "$oid": "63cfaa9cf99278ca025ed586"
+        },
+        "title": "Iphone 14",
+        "description": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+        "sku": "232323",
+        "price": 2222,
+        "category": 1,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012020_bhv28vbtyy7.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012073_vgetnczhfri.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012136_vb28bktrjk.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012221_i8x02qc8d4.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012294_21flx3soayn.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554012351_mthtu66j0z.jpg"
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 1,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "updated_date": "2023-01-30",
+        "updated_id": "95",
+        "updated_ip": "172.31.6.173",
+        "desciption": "",
+        "product_has_variant": "yes",
+        "specification": "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p>undefined</p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+        "category_name": "mobile",
+        "discount_value": "10%",
+        "price_after_discount": 1999.8,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage",
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63cfaa9cf99278ca025ed588"
+            },
+            "sku": "8888",
+            "color": "white",
+            "size": "128GB",
+            "stock_quality": 20,
+            "price": 100000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554012486_ua03tcdwggk.jpg",
+            "product_id": 1,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "updated_date": "2023-01-30",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63cfaa9cf99278ca025ed587"
+            },
+            "sku": "222",
+            "color": "black",
+            "size": "64GB",
+            "stock_quality": 10,
+            "price": 90000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554012435_uak8eh5m6m.jpg",
+            "product_id": 1,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "updated_date": "2023-01-30",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63cfab01f99278ca025ed589"
+            },
+            "sku": "88",
+            "color": "blue",
+            "size": "256GB",
+            "stock_quality": 30,
+            "price": 110000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554112323_7e951nni1mt.jpg",
+            "created_id": "95",
+            "product_id": 1,
+            "partnerid": "95",
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "status": 1,
+            "updated_date": "2023-01-30",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63cfab2cf99278ca025ed58a"
+            },
+            "sku": "77",
+            "color": "purple",
+            "size": "512GB",
+            "stock_quality": 40,
+            "price": 120000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554156273_27jcugv5wia.jpg",
+            "created_id": "95",
+            "product_id": 1,
+            "partnerid": "95",
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "status": 1,
+            "updated_date": "2023-01-30",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63d6c67f94488635701d516b"
+            },
+            "sku": "999",
+            "color": "blue",
+            "size": "512GB",
+            "stock_quality": 23,
+            "price": 5666,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675067551272_wehjm7izsfs.jpg",
+            "created_id": "95",
+            "product_id": 1,
+            "partnerid": "95",
+            "created_date": "2023-01-29",
+            "created_ip": "172.31.6.173",
+            "status": 1,
+            "updated_date": "2023-01-30",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "63cfab60f99278ca025ed58b"
+        },
+        "title": "Galaxy s22 ultra",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "sku": "323",
+        "price": 90000,
+        "category": 1,
+        "manage_stock": "yes",
+        "stock_quantity": 10,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554207872_qhcdvlfpa4j.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554207956_pcsrkvpy9g.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554208008_2xbhrqszd89.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 2,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "product_has_variant": "no",
+        "category_name": "mobile",
+        "discount_value": "10%",
+        "price_after_discount": 81000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63cfacecf99278ca025ed58c"
+        },
+        "title": "Bolt wireless headphone",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "sku": "7778",
+        "price": 10,
+        "category": 2,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554603805_istdea4ujb.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554603936_a6xhf7te21t.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674554604053_88u9hruiedy.jpg"
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 3,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "updated_date": "2023-01-24",
+        "updated_id": "95",
+        "updated_ip": "172.31.6.173",
+        "desciption": "",
+        "category_name": "Headphone",
+        "discount_value": 300,
+        "price_after_discount": -290,
+        "global_usage_limit": 300,
+        "minimum_cart_amount": 500,
+        "maximum_cart_amount": 5000,
+        "global_individual_limit": 200,
+        "discount_type": "Fixed Price",
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63cfacecf99278ca025ed58e"
+            },
+            "sku": "773773",
+            "color": "purple",
+            "size": "NA",
+            "stock_quality": 9,
+            "price": 999,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554604217_gv4vuihzdot.jpg",
+            "product_id": 3,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "updated_date": "2023-01-24",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63cfacecf99278ca025ed58d"
+            },
+            "sku": "8888",
+            "color": "black",
+            "size": "NA",
+            "stock_quality": 3,
+            "price": 3000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554604165_o61hxmkete.jpg",
+            "product_id": 3,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "updated_date": "2023-01-24",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63cfacecf99278ca025ed58f"
+            },
+            "sku": "73737",
+            "color": "white",
+            "size": "NA",
+            "stock_quality": 50,
+            "price": 5000,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674554604310_v32bdabgm6h.jpg",
+            "product_id": 3,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-24",
+            "created_ip": "172.31.6.173",
+            "updated_date": "2023-01-24",
+            "updated_id": "95",
+            "updated_ip": "172.31.6.173"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "63cfaedcf99278ca025ed591"
+        },
+        "title": "Canon RP Mirrorless Camera Body Only",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "sku": "8888",
+        "price": 200000,
+        "category": 3,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674555100190_38w7xhdnr5t.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674555100247_3fdmw0mplh8.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674555100300_tazagvublcg.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 4,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "camera"
+      },
+      {
+        "_id": {
+          "$oid": "63cfe9a886e04076fedcd548"
+        },
+        "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)  (6 GB RAM)",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "sku": "4343",
+        "price": 19999,
+        "category": 1,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.amazonaws.com/uploads/product/1674570152151_dlsb8rhuhdc.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570152289_gful5v13qeo.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 5,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "mobile",
+        "discount_value": "10%",
+        "price_after_discount": 17999.1,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63cfea5286e04076fedcd54a"
+        },
+        "title": "OnePlus 10T 5G (Jade Green, 128 GB)  (8 GB RAM)",
+        "description": "",
+        "sku": "888",
+        "price": 60000,
+        "category": 1,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.amazonaws.com/uploads/product/1674570321996_hikd66aezfr.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570322165_w5rdz9vvve.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570322286_2is5l8azd0a.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 6,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "mobile",
+        "discount_value": "10%",
+        "price_after_discount": 54000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63cfebdf86e04076fedcd54b"
+        },
+        "title": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)",
+        "description": "",
+        "sku": "3222",
+        "price": 2000,
+        "category": 3,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570718985_pniv010xmz.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570719068_snhcennhgsh.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 7,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "updated_date": "2023-01-24",
+        "updated_id": "95",
+        "updated_ip": "172.31.6.173",
+        "desciption": "",
+        "category_name": "camera"
+      },
+      {
+        "_id": {
+          "$oid": "63cfec7286e04076fedcd54c"
+        },
+        "title": "Aroma NB119D Dream 60 Hours Playing Time Fast Charging Bluetooth Neckband Earphone Bluetooth Headset  (Black, Silver, In the Ear)",
+        "description": "",
+        "sku": "777",
+        "price": 3000,
+        "category": 2,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570866440_qod11lqkjzd.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570866540_yiuifth1fg.webp"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 8,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "updated_date": "2023-01-24",
+        "updated_id": "95",
+        "updated_ip": "172.31.6.173",
+        "desciption": "",
+        "category_name": "Headphone",
+        "discount_value": 300,
+        "price_after_discount": 2700,
+        "global_usage_limit": 300,
+        "minimum_cart_amount": 500,
+        "maximum_cart_amount": 5000,
+        "global_individual_limit": 200,
+        "discount_type": "Fixed Price"
+      },
+      {
+        "_id": {
+          "$oid": "63cfecb686e04076fedcd54d"
+        },
+        "title": "HOPPUP GRAND With Power Bank Function & Upto 75 Hours Playtime Bluetooth Headset  (Black, True Wireless)",
+        "description": "",
+        "sku": "888",
+        "price": 8000,
+        "category": 2,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674570934573_qredppr30a.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 9,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "Headphone",
+        "discount_value": 300,
+        "price_after_discount": 7700,
+        "global_usage_limit": 300,
+        "minimum_cart_amount": 500,
+        "maximum_cart_amount": 5000,
+        "global_individual_limit": 200,
+        "discount_type": "Fixed Price"
+      },
+      {
+        "_id": {
+          "$oid": "63cfef1786e04076fedcd54f"
+        },
+        "title": "LG 80 cm (32 inch) HD Ready LED Smart WebOS TV  (32LM565BPTA)",
+        "description": "",
+        "sku": "777",
+        "price": 80000,
+        "category": 4,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571542776_ppg7euolf5q.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571542835_kas71njvca.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 10,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "TV",
+        "discount_value": "10%",
+        "price_after_discount": 72000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63cfef7086e04076fedcd551"
+        },
+        "title": "Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)",
+        "description": "",
+        "sku": "7888",
+        "price": 40000,
+        "category": 4,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571632012_cljt7bt9xug.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 11,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "TV",
+        "discount_value": "10%",
+        "price_after_discount": 36000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63cfefab86e04076fedcd552"
+        },
+        "title": "OnePlus Y1 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio  (32HA0A00)",
+        "description": "",
+        "sku": "3883",
+        "price": 80000,
+        "category": 4,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571690767_fzly6jqj2c.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571690861_ld0r6hqngfl.jpg"
+        ],
+        "product_variant": [],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 12,
+        "created_date": "2023-01-24",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "desciption": "",
+        "category_name": "TV",
+        "discount_value": "10%",
+        "price_after_discount": 72000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage"
+      },
+      {
+        "_id": {
+          "$oid": "63d5202cb7779b52e252274e"
+        },
+        "title": "test",
+        "description": [
+          "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+          "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>"
+        ],
+        "sku": "83883",
+        "price": 8888,
+        "category": 2,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": ["https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674571690861_ld0r6hqngfl.jpg"],
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63d51b184e3f05278be80748"
+            },
+            "sku": "sku 1",
+            "color": "color 1",
+            "size": "size ",
+            "stock_quality": 100,
+            "price": "100",
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674910483511_xd6pruq2cge.jpeg",
+            "product_id": 13,
+            "partnerid": "96",
+            "created_id": "96",
+            "status": 1,
+            "created_date": "2023-01-28",
+            "created_ip": "172.31.6.173"
+          }
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 13,
+        "created_date": "2023-01-28",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "category_name": "Headphone",
+        "discount_value": 300,
+        "price_after_discount": 8588,
+        "global_usage_limit": 300,
+        "minimum_cart_amount": 500,
+        "maximum_cart_amount": 5000,
+        "global_individual_limit": 200,
+        "discount_type": "Fixed Price"
+      },
+      {
+        "_id": {
+          "$oid": "63d5207db7779b52e252274f"
+        },
+        "title": "test2",
+        "description": [
+          "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Open chat during the event for everyone</span></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+          "<div class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Open chat during the event for everyone 2</span></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>"
+        ],
+        "sku": "8888",
+        "price": 777,
+        "category": 3,
+        "manage_stock": "yes",
+        "stock_quantity": 90,
+        "image": [
+          "https://test-winty.s3.amazonaws.com/uploads/product/1674911869102_lpd5nwsham.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674911869280_hyuz6oly7zi.jpg"
+        ],
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63d51c344e3f05278be8074d"
+            },
+            "sku": "sku 12`",
+            "color": "color 12",
+            "size": "size 12",
+            "stock_quality": 100,
+            "price": "100",
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674910765510_drsdbophxdw.jpg",
+            "created_id": "96",
+            "product_id": 14,
+            "partnerid": "96",
+            "created_date": "2023-01-28",
+            "created_ip": "172.31.6.173",
+            "status": 1
+          }
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 14,
+        "created_date": "2023-01-28",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "category_name": "camera"
+      },
+      {
+        "_id": {
+          "$oid": "63d52115b7779b52e2522750"
+        },
+        "title": "test3",
+        "description": [
+          "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+          "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>"
+        ],
+        "price": 98989,
+        "category": 3,
+        "manage_stock": "no",
+        "stock_quantity": 0,
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674912021550_nhxu2arjr4.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1674912021608_kwu4agnjgk.jpg"
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 15,
+        "created_date": "2023-01-28",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "category_name": "camera",
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63d52116b7779b52e2522751"
+            },
+            "sku": "667",
+            "color": "blue",
+            "size": "256gb",
+            "stock_quality": 12,
+            "price": "9999",
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1674912021707_otus2q6kmd.jpg",
+            "product_id": 15,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-28",
+            "created_ip": "172.31.6.173"
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "63d7aa5d53d10873906fee7a"
+        },
+        "title": "Apple iPhone 13",
+        "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+        "specification": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+        "price": 90000,
+        "category": 1,
+        "product_has_variant": "yes",
+        "image": [
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078236863_rgegsg57cmc.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078236938_c5os3wltuq.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078236986_kyw8nhoyuya.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078237044_mrghav73xdp.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078237167_8cgbsklcfe.jpg",
+          "https://test-winty.s3.us-west-2.amazonaws.com/uploads/product/1675078237311_2vq6byzxhxk.jpg"
+        ],
+        "partnerid": "95",
+        "created_id": "95",
+        "display_id": 16,
+        "created_date": "2023-01-30",
+        "created_ip": "172.31.6.173",
+        "status": 1,
+        "category_name": "mobile",
+        "discount_value": "10%",
+        "price_after_discount": 81000.0,
+        "global_usage_limit": 100,
+        "minimum_cart_amount": 200,
+        "maximum_cart_amount": 200000,
+        "global_individual_limit": 10,
+        "discount_type": "Percentage",
+        "product_variant": [
+          {
+            "_id": {
+              "$oid": "63d7aa5d53d10873906fee7b"
+            },
+            "sku": "ubyby",
+            "color": "blue",
+            "size": "256GB",
+            "stock_quality": 10,
+            "price": 88888,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1675078237425_vvjay34inin.jpg",
+            "product_id": 16,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-30",
+            "created_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63d7aa5d53d10873906fee7c"
+            },
+            "sku": "6666",
+            "color": "blue",
+            "size": "512GB",
+            "stock_quality": 29,
+            "price": 99999,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1675078237515_zds8jc66jff.jpg",
+            "product_id": 16,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-30",
+            "created_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63d7aa5d53d10873906fee7d"
+            },
+            "sku": "efyehy",
+            "color": "blue",
+            "size": "1024GB",
+            "stock_quality": 99,
+            "price": 83838,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1675078237568_ntae9eh7kf.jpg",
+            "product_id": 16,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-30",
+            "created_ip": "172.31.6.173"
+          },
+          {
+            "_id": {
+              "$oid": "63d7aa5d53d10873906fee7e"
+            },
+            "sku": "37737",
+            "color": "white",
+            "size": "64gb",
+            "stock_quality": 8,
+            "price": 88888,
+            "product_image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/productVariant/1675078237615_tg9lf2xhxsg.jpg",
+            "product_id": 16,
+            "partnerid": "95",
+            "created_id": "95",
+            "status": 1,
+            "created_date": "2023-01-30",
+            "created_ip": "172.31.6.173"
+          }
+        ]
+      }
+    ],
+    "message": "Product fetched successfully",
+    "status": true
+}

@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "_id": {
+        "$oid": "63cfaa14f99278ca025ed584"
+      },
+      "name": "mobile",
+      "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 1,
+      "created_date": "2023-01-24",
+      "created_ip": "172.31.6.173",
+      "status": 1,
+      "desciption": "",
+      "image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/category/1675088589230_sobeve55pw.jpg",
+      "updated_date": "2023-01-30",
+      "updated_id": "95",
+      "updated_ip": "172.31.6.173",
+      "discount_value": "10%",
+      "global_usage_limit": 100,
+      "minimum_cart_amount": 200,
+      "maximum_cart_amount": 200000,
+      "global_individual_limit": 10,
+      "discount_type": "Percentage"
+    },
+    {
+      "_id": {
+        "$oid": "63cfaa23f99278ca025ed585"
+      },
+      "name": "Headphone",
+      "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 2,
+      "created_date": "2023-01-24",
+      "created_ip": "172.31.6.173",
+      "status": 1,
+      "desciption": "",
+      "image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/category/1675088642978_p2satb3hufc.jpg",
+      "updated_date": "2023-01-30",
+      "updated_id": "95",
+      "updated_ip": "172.31.6.173",
+      "discount_value": 300,
+      "global_usage_limit": 300,
+      "minimum_cart_amount": 500,
+      "maximum_cart_amount": 5000,
+      "global_individual_limit": 200,
+      "discount_type": "Fixed Price"
+    },
+    {
+      "_id": {
+        "$oid": "63cfae38f99278ca025ed590"
+      },
+      "name": "camera",
+      "description": "",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 3,
+      "created_date": "2023-01-24",
+      "created_ip": "172.31.6.173",
+      "status": 1,
+      "desciption": "",
+      "image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/category/1675088678455_8urztddwn2w.jpg",
+      "updated_date": "2023-01-30",
+      "updated_id": "95",
+      "updated_ip": "172.31.6.173"
+    },
+    {
+      "_id": {
+        "$oid": "63cfeebb86e04076fedcd54e"
+      },
+      "name": "TV",
+      "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 4,
+      "created_date": "2023-01-24",
+      "created_ip": "172.31.6.173",
+      "status": 1,
+      "desciption": "",
+      "image": "https://test-winty.s3.us-west-2.amazonaws.com/uploads/category/1675088721130_90necuvzj2k.jpg",
+      "updated_date": "2023-01-30",
+      "updated_id": "95",
+      "updated_ip": "172.31.6.173",
+      "discount_value": "10%",
+      "global_usage_limit": 100,
+      "minimum_cart_amount": 200,
+      "maximum_cart_amount": 200000,
+      "global_individual_limit": 10,
+      "discount_type": "Percentage"
+    },
+    {
+      "_id": {
+        "$oid": "63d7d68b6a13291dda7720f9"
+      },
+      "name": "Air conditioner ",
+      "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 5,
+      "created_date": "2023-01-30",
+      "created_ip": "172.31.6.173",
+      "status": 1
+    },
+    {
+      "_id": {
+        "$oid": "63d7d6a26a13291dda7720fa"
+      },
+      "name": "Freeze",
+      "description": "<div class=\"ql-editor ql-blank\" data-gramm=\"false\" contenteditable=\"true\" data-placeholder=\"Type your text here...\"><p><br></p></div><div class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"></div><div class=\"ql-tooltip ql-hidden\"><a class=\"ql-preview\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"about:blank\"></a><input type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"><a class=\"ql-action\"></a><a class=\"ql-remove\"></a></div>",
+      "partnerid": "95",
+      "created_id": "95",
+      "display_id": 6,
+      "created_date": "2023-01-30",
+      "created_ip": "172.31.6.173",
+      "status": 1
+    }
+  ],
+  "message": "Category fetched successfully",
+  "status": true
+}
